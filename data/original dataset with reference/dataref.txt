@@ -1,0 +1,27 @@
+birth number by month
+scotland
+https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/general-publications/weekly-and-monthly-data-on-births-and-deaths/monthly-data-on-births-and-deaths-registered-in-scotland
+
+employment
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/timeseries/lf42/lms
+
+unem
+https://www-statista-com.heyworld.top/statistics/350435/unemployment-rate-scotland-by-gender/
+
+working hour
+https://www-statista-com.heyworld.top/statistics/384038/average-weekly-hours-of-work-for-full-time-workers-in-scotland/
+
+Consumer price inflation, UK: November 2022 
+https://www.statista.com/statistics/306648/inflation-rate-consumer-price-index-cpi-united-kingdom-uk/
+
+gender pay gap
+https://www-statista-com.heyworld.top/statistics/280710/uk-gender-pay-gap/
+
+Average cost of part-time (25 hours a week) childcare for children in Great Britain from 2011 to 2022, by age and place
+https://www-statista-com.fgul.idm.oclc.org/statistics/1275821/cost-of-part-time-childcare-britain/
+
+average house price
+https://www.ros.gov.uk/data-and-statistics/house-price-statistics
+
+covid
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/coronaviruscovid19infectionsurveycumulativeincidenceofthenumberofpeoplewhohavetestedpositiveforcovid19uk
